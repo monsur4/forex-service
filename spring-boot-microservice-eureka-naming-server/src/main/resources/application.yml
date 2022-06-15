@@ -1,0 +1,16 @@
+server:
+  port: 8100
+#forex-service.ribbon.listOfServers=localhost:8000,localhost:8001
+#spring-cloud-loadbalancer-ribbon-enabled=false
+#currency-conversion-service
+#spring:
+#  application:
+#    name: currency-conversion-service
+#  cloud:
+#    loadbalancer:
+#      ribbon:
+#        enabled: false
+#      instances:
+#        name: forex-service
+#        servers: localhost:8000,localhost:8001
+#forex-service.ribbon.listOfServers=localhost:8000,localhost:8001
